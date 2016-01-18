@@ -2,7 +2,8 @@
 
 Helps you spin up a virtual machine that supports web development in minutes.
 
-Has the following installed:
+It has the following softwares pre-installed:
+
 1. Node and NPM
 1. Git
 1. Coffee script

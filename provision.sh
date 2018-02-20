@@ -10,7 +10,6 @@ echo "Installing curl"
 apt-get install -y curl
 
 echo "Installing node and npm"
-curl -sL https://deb.nodesource.com/setup_4.x | bash -
 apt-get install -y nodejs build-essential
 npm install -g npm
 
@@ -26,3 +25,7 @@ npm install -g generator-webapp
 echo "Installing compass support"
 apt-get install -y ruby-dev
 gem install compass --no-ri --no-rdoc
+
+
+echo "Installing angular"
+npm install -g @angular/cli

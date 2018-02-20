@@ -11,5 +11,6 @@ It has the following softwares pre-installed:
 1. Yeoman
 1. Yeoman Angular and Webapp Generator
 1. Compass
+1. Angular
 
-This vagrant box is based on `ubuntu/trusty32`. Edit Vagrantfile if you want to use a different base image.
+This vagrant box is based on `ubuntu/xenial64`. Edit Vagrantfile if you want to use a different base image.
